@@ -117,7 +117,6 @@ ol {
   border-right: 1px solid transparent;
   border-bottom: 1px solid #fff;
   border-left: 1px solid transparent;
-  /* margin: 1px; */
   padding-left: 0;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
@@ -315,7 +314,6 @@ ol {
 }
 
 .content__video-card-thumbnail {
-  /* width: 194px; */
   height: 105px;
 }
 
